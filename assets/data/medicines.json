@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "name": "Paracetamol",
+    "generic": "Acetaminophen",
+    "category": "Analgesic",
+    "usage": "Pain reliever and fever reducer. Used for headaches, muscle aches, arthritis, backaches, toothaches, colds, and fevers.",
+    "dosage": "Adults: 500mg-1000mg every 4-6 hours. Maximum: 4000mg per day. Take with water.",
+    "warning": "Do not exceed recommended dose. Avoid alcohol while taking this medication. Consult doctor if pregnant."
+  },
+  {
+    "id": "1b",
+    "name": "Dolo",
+    "generic": "Acetaminophen",
+    "category": "Analgesic",
+    "usage": "Pain reliever and fever reducer. Used for headaches, muscle aches, arthritis, backaches, toothaches, colds, and fevers.",
+    "dosage": "Adults: 500mg-1000mg every 4-6 hours. Maximum: 4000mg per day. Take with water.",
+    "warning": "Do not exceed recommended dose. Avoid alcohol while taking this medication. Consult doctor if pregnant."
+  },
+  {
+    "id": "1c",
+    "name": "Calpol",
+    "generic": "Acetaminophen",
+    "category": "Analgesic",
+    "usage": "Pain reliever and fever reducer. Used for headaches, muscle aches, arthritis, backaches, toothaches, colds, and fevers.",
+    "dosage": "Adults: 500mg-1000mg every 4-6 hours. Maximum: 4000mg per day. Take with water.",
+    "warning": "Do not exceed recommended dose. Avoid alcohol while taking this medication. Consult doctor if pregnant."
+  },
+  {
+    "id": "2",
+    "name": "Ibuprofen",
+    "generic": "Ibuprofen",
+    "category": "NSAID",
+    "usage": "Nonsteroidal anti-inflammatory drug used for pain relief, reducing inflammation, and fever reduction.",
+    "dosage": "Adults: 200mg-400mg every 4-6 hours. Maximum: 1200mg per day. Take with food or milk.",
+    "warning": "Take with food or milk to avoid stomach upset. Not recommended for pregnant women. May cause drowsiness."
+  },
+  {
+    "id": "3",
+    "name": "Amoxicillin",
+    "generic": "Amoxicillin",
+    "category": "Antibiotic",
+    "usage": "Penicillin-type antibiotic used to treat various bacterial infections like pneumonia, bronchitis, and ear infections.",
+    "dosage": "Adults: 250mg-500mg every 8 hours. Complete full course as prescribed by doctor.",
+    "warning": "Complete full course even if symptoms improve. Avoid if allergic to penicillin. May cause diarrhea."
+  },
+  {
+    "id": "4",
+    "name": "Aspirin",
+    "generic": "Acetylsalicylic Acid",
+    "category": "Analgesic/NSAID",
+    "usage": "Used to treat pain, fever, and inflammation. Also used for heart attack prevention in low doses.",
+    "dosage": "Adults: 325mg-650mg every 4-6 hours. Maximum: 4000mg per day.",
+    "warning": "Not for children with viral infections. May cause stomach bleeding. Avoid if you have bleeding disorders."
+  },
+  {
+    "id": "5",
+    "name": "Cetirizine",
+    "generic": "Cetirizine",
+    "category": "Antihistamine",
+    "usage": "Antihistamine used to treat allergy symptoms like sneezing, runny nose, itchy eyes, and skin rashes.",
+    "dosage": "Adults: 10mg once daily. Children: 5mg once daily. Can be taken with or without food.",
+    "warning": "May cause drowsiness. Avoid alcohol. Use caution when driving or operating machinery."
+  },
+  {
+    "id": "6",
+    "name": "Metformin",
+    "generic": "Metformin Hydrochloride",
+    "category": "Antidiabetic",
+    "usage": "Used to treat type 2 diabetes mellitus. Helps control blood sugar levels.",
+    "dosage": "Adults: 500mg twice daily with meals. Dosage may be adjusted by doctor.",
+    "warning": "Take with meals to reduce stomach upset. Monitor blood sugar regularly. Avoid alcohol."
+  },
+  {
+    "id": "7",
+    "name": "Azithromycin",
+    "generic": "Azithromycin",
+    "category": "Antibiotic",
+    "usage": "Macrolide antibiotic used to treat respiratory infections, skin infections, and ear infections.",
+    "dosage": "Adults: 500mg once daily for 5 days. Take one hour before or two hours after meals.",
+    "warning": "Complete full course. May cause stomach upset. Do not take with antacids."
+  },
+  {
+    "id": "8",
+    "name": "Omeprazole",
+    "generic": "Omeprazole",
+    "category": "Proton Pump Inhibitor",
+    "usage": "Used to treat acid reflux, GERD, stomach ulcers, and heartburn.",
+    "dosage": "Adults: 20mg once daily before breakfast. Swallow whole, do not crush.",
+    "warning": "Take before meals. Long-term use may cause vitamin B12 deficiency. Consult doctor for long-term use."
+  },
+  {
+    "id": "9",
+    "name": "Levocetirizine",
+    "generic": "Levocetirizine Dihydrochloride",
+    "category": "Antihistamine",
+    "usage": "Second-generation antihistamine for treating allergic rhinitis and chronic urticaria.",
+    "dosage": "Adults: 5mg once daily in the evening. Children above 6 years: 5mg once daily.",
+    "warning": "May cause drowsiness. Avoid alcohol. Not recommended for pregnant women."
+  },
+  {
+    "id": "10",
+    "name": "Atorvastatin",
+    "generic": "Atorvastatin Calcium",
+    "category": "Statin",
+    "usage": "Used to lower cholesterol and reduce risk of heart attack and stroke.",
+    "dosage": "Adults: 10mg-20mg once daily. Take at the same time each day.",
+    "warning": "Report muscle pain or weakness immediately. Avoid grapefruit. Monitor liver function."
+  }
+]
